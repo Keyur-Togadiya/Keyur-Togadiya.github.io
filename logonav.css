@@ -30,6 +30,7 @@ ul.topnav {
 
 
 ul.topnav li {
+    float: left;
     padding-left:10px;
     background-color: rgba(0, 0, 0,1);
     color:rgba(256,256,256,1);
